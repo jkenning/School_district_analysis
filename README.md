@@ -32,11 +32,11 @@ The software used for this project was Python 3.7.9 and Jupyter Notebook 6.1.4. 
 - Made a list of prefixes and suffixes and removed from student data
 - Combined school and student data into a single data set
 
-A series of analyses was performed that met the key deliverables for the project (outlined previously), found in [PyCitySchools.ipynb]().
+A series of analyses was performed that met the key deliverables for the project (outlined previously), found in [PyCitySchools.ipynb](https://github.com/jkenning/School_district_analysis/blob/main/PyCitySchools.ipynb).
 
 ## Impact of Removing Dishonest Grades from the Analysis
 
-As a result of academic dishonesty, some of the student grades have been altered and must be removed in order to uphold testing standards and the relaibility of the results. Specifically, the reading and maths grades for Thomas High School were removed and the analysis re-done, while keeping the rest of the data intact. Therefore, it is important to examine how these changes may affect the overall analysis and results. The modified data and re-performed analysiscan be found in [PyCitySchools_Challenge.ipynb]()
+As a result of academic dishonesty, some of the student grades have been altered and must be removed in order to uphold testing standards and the relaibility of the results. Specifically, the reading and maths grades for Thomas High School were removed and the analysis re-done, while keeping the rest of the data intact. Therefore, it is important to examine how these changes may affect the overall analysis and results. The modified data and re-performed analysiscan be found in [PyCitySchools_Challenge.ipynb](https://github.com/jkenning/School_district_analysis/blob/main/PyCitySchools_Challenge.ipynb)
 
 `# Step 2. Use the loc method on the student_data_df to select all the reading scores from the 9th grade at Thomas High School and replace them with NaN.
 student_data_df.loc[(student_data_df["grade"] == "9th") & (student_data_df["school_name"] == "Thomas High School"), "reading_score"] = np.nan`
