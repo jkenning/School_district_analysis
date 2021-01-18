@@ -1,4 +1,4 @@
-# Title
+# School District Analysis
 
 Analysis of data from a school district consisting of ~39,000 students across 15 schools to determine patterns in overall performance.
 
