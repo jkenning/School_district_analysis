@@ -110,4 +110,4 @@ Four changes to the school district analysis after the reading and math scores h
 * A decrease in the percentage passing rate for math
 * A decrease in the percentage passing rate for reading
 * A decrease in the percentage passing rate overall
-* The results when Thomas High School results use 10th, 11th, 12th grades are however largely similar in most respects
+* The results when Thomas High School results use 10th, 11th, 12th grades are however largely similar to the original results with only minor decreases in average scores/percent passing
